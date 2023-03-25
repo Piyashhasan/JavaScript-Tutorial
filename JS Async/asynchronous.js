@@ -1,3 +1,9 @@
+/**
+ * Async js build in method
+ * setTimeout()
+ * setInterval()
+ */
+
 // make callback function first
 
 function display(sum) {
